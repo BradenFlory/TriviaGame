@@ -1,0 +1,23 @@
+body { 
+	background: url(../images/background.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+#gameScreen{
+    background-color: aqua;
+    margin: 20px;
+}
+#topText{
+    margin: 0 30%;
+    color: black;
+    background-color: azure;
+    text-align: center;
+    margin: 10px;
+}
+.choices{
+    margin: 0 35%;
+    border: ridge 5px blue;
+    border-radius: 8%;
+}
+image{
+    width: 400px;
+}
